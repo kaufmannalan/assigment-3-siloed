@@ -1,4 +1,4 @@
-"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=60093:C:\Program Files\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\Silo\out\production\Silo Main
-Each person needs to save 19.112112 gallons of water everyday from their usual consumption of 65 gal
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=60145:C:\Program Files\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\Silo\out\production\Silo Main
+Each person needs to save 0.072331995 Cubic meters of water everyday from their usual consumption of .246 m^3
 
 Process finished with exit code 0
