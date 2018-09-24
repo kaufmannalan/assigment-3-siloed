@@ -44,10 +44,10 @@ public class Main {
         float tVolume=towVol1+towVol2+towVol3+towVol4+towVol5+towVol6+towVol7+towVol8+towVol9+towVol10+towVol11+towVol12;
         float m3pperson=(tVolume/(28f*37640f));
         float m3save=.246f-m3pperson;
-        float save=(m3save*65f)/.246f;
 
 
-        System.out.println("Each person needs to save "+save+" gallons of water everyday from their usual consumption of 65 gal");
+
+        System.out.println("Each person needs to save "+m3save+" Cubic meters of water everyday from their usual consumption of .246 m^3");
 
 
 
